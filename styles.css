@@ -1,0 +1,46 @@
+.post{
+    width: 50%;
+    margin: auto;
+}
+
+.post-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.nombres {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+h3 {
+    margin: 0;
+}
+
+.armando {
+    margin: 0;
+}
+
+img{
+    max-width: 100%;
+}
+
+.fa-regular{
+    line-height: 2;
+}
+
+.fa-bookmark{
+    float: right;
+}
+
+.fa-html5{
+    line-height: 2;
+}
+
+.fa-ellipsis-vertical{
+    line-height: 2;
+    float: right;
+}
